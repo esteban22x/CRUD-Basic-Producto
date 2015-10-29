@@ -1,0 +1,12 @@
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\bin\Debug\ForAL.exe.config
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\bin\Debug\ForAL.exe
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\bin\Debug\ForAL.pdb
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.csprojResolveAssemblyReference.cache
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.Form1.resources
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.Properties.Resources.resources
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.csproj.GenerateResource.Cache
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.exe
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.pdb
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.AgregaPro.resources
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.ModificaPro.resources
+D:\MIS DOCUMENTOS\Documents\GitHub\visual\ForAL\ForAL\obj\Debug\ForAL.FormListar.resources
